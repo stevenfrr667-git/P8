@@ -107,7 +107,7 @@ body {
 .nav-pills .nav-link.active,
 .nav-pills .show>.nav-link {
 	color: #fff;
-	background-color: #BEB45A;
+	background-color: #312d04;
 	border-radius: 0
 }
 
@@ -389,4 +389,7 @@ input[type="submit"] {
 	.picture {
 		width: 80%
 	}
+}
+.carousel-control-next-icon {
+	color : black;
 }
