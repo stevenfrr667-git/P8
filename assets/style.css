@@ -393,3 +393,6 @@ input[type="submit"] {
 .carousel-control-next-icon {
 	color : black;
 }
+.carrousel-indicators .active {
+	background-color : black;
+}
